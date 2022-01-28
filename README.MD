@@ -1,6 +1,6 @@
-# Plus one
+# Post contribution
 
-A simple way to keep updated your contribution calendar on each commit, unrelating to which commit
+Are you working with several Git repo but you care of the contribution calendar to track your productivity? Then this hack will help you: this hack will push a contribution token for each commit you do in your local machine and therefore mirror it in your contribution calendar.
 
 ## Getting started
 
