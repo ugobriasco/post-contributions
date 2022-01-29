@@ -1,4 +1,4 @@
-# Post contribution
+# Post contributions
 
 ![image](https://user-images.githubusercontent.com/9917415/151678600-bebe8c47-8fe6-41e4-8521-38aa80162ff3.png)
 
